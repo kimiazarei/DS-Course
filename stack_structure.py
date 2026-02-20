@@ -1,19 +1,3 @@
-"""
-Stack implementation (refactored).
-
-New API:
-- class SimpleStack(limit=1000)
-  - push_item(x)
-  - pop_item()
-  - peek_item()
-  - is_empty()
-  - size()
-  - to_list()
-
-Deprecated compatibility aliases:
-- class stack
-  - push/pop/peek/isEmpty/size/display
-"""
 
 from __future__ import annotations
 
