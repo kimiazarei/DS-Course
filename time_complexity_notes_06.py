@@ -1,4 +1,4 @@
-"""Time complexity notes (refactored from original exercise_6.py)
+"""Time complexity notes
 
 "تکه برنامه ای بنویسید که دارای تابع پیچیدگی زمانی زیر باشد"
 F(n) = 1.3 n**2 + 6 n + 2
@@ -34,5 +34,6 @@ for i in range(n):
 
 #F(n) = 1/3 (n-0) * (n+1) * 2 + 4/3 n 
 #     = 2/9 n**2 + 14/9 n       
+
 # ***مثال دانشجو بود***
 """
