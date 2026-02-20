@@ -1,14 +1,4 @@
-"""
-Binary tree utilities (refactored).
 
-New API:
-- class BinaryTreeNode
-- count_leaves(root)
-
-Deprecated compatibility:
-- class Tree_Node
-- Count_leaves(root)
-"""
 
 from __future__ import annotations
 
