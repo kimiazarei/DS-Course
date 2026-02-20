@@ -1,4 +1,4 @@
-"""Time complexity notes (refactored from original exercise_2.py)
+"""Time complexity notes
 
 "تکه برنامه ای بنویسید که دارای تابع پیچیدگی زمانی زیر باشد"
 F(n) = 3n**2 + 4n-8 ____ 4(n-2)
@@ -21,6 +21,7 @@ F(n) = 3n**2 + 4n-8 ____ 4(n-2)
 #    t=s 
 
 #F(n) = n**2 + n        
+
 
 # n**2 به معنای (n) به توان دو
 """
