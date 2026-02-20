@@ -1,17 +1,4 @@
-"""
-Graph traversal algorithms (refactored).
 
-Graph format: dict[node] -> iterable[neighbor]
-
-New API:
-- bfs_traverse(graph, start) -> set[visited]
-- dfs_traverse(graph, start) -> set[visited]      (iterative)
-- dfs_traverse_recursive(graph, start) -> set     (recursive)
-
-Deprecated compatibility:
-- BFS(graph, start)
-- DFS(graph, start, visited_dict)
-"""
 
 from __future__ import annotations
 from collections import deque
