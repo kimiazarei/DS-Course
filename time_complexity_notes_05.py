@@ -1,4 +1,4 @@
-"""Time complexity notes (refactored from original exercise_5.py)
+"""Time complexity notes
 
 "کوییز"
 for i in range(n):
@@ -13,5 +13,6 @@ n+(n-1)+(n-2)+...+1
 = n (n+1) / 2
 
 F(n) = 3/2(n)(n+1)
+
      = 1.5 n**2 + 1.5 n
 """
