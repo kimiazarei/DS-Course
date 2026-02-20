@@ -1,20 +1,3 @@
-"""
-Doubly Linked List (refactored).
-
-Merged insertion/deletion snippets into a complete implementation.
-
-New API:
-- class DoublyLinkedList
-  - insert_first(x)
-  - insert_last(x)
-  - delete_after(x)  # delete node after first occurrence of x
-  - to_list_forward()
-  - to_list_backward()
-
-Deprecated compatibility aliases:
-- class dnode
-- class dlinked_list with old method spellings preserved (ins_frist, del_after)
-"""
 
 from __future__ import annotations
 
