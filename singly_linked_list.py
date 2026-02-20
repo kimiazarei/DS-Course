@@ -1,19 +1,3 @@
-"""
-Singly Linked List (refactored).
-
-New API:
-- class SinglyLinkedList
-  - insert_first(x)
-  - insert_last(x)
-  - delete_first()
-  - delete_last()
-  - search(x) -> bool
-  - to_list()
-
-Deprecated compatibility aliases:
-- class node
-- class linked_list with old method spellings preserved
-"""
 
 from __future__ import annotations
 
