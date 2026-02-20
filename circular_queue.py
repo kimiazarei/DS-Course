@@ -1,19 +1,4 @@
-"""
-Circular Queue implementation (refactored).
 
-New API:
-- class CircularQueue(capacity=100)
-  - enqueue(x)
-  - dequeue()
-  - peek()
-  - is_empty()
-  - is_full()
-  - to_list()
-
-Deprecated compatibility aliases:
-- class C_Queue
-  - insert/delete/display
-"""
 
 from __future__ import annotations
 
