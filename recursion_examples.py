@@ -1,10 +1,4 @@
-"""
-Recursion examples (cleaned and renamed).
 
-Contains:
-- fibonacci(n): classic recursive Fibonacci (1-indexed, like original)
-- compare_numbers(a, b): returns the larger (like the original 'test' intent)
-"""
 
 from __future__ import annotations
 
